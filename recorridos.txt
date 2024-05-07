@@ -1,0 +1,3 @@
+Preorder: ¿Es un animal? ¿Es un perro? ¿Es un gato? 
+Inorder: ¿Es un perro? ¿Es un animal? ¿Es un gato? 
+Postorder: ¿Es un perro? ¿Es un gato? ¿Es un animal? 
